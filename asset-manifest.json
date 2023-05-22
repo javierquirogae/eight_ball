@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eight_ball/static/css/main.e1f21444.css",
+    "main.js": "/eight_ball/static/js/main.170eda20.js",
+    "index.html": "/eight_ball/index.html",
+    "main.e1f21444.css.map": "/eight_ball/static/css/main.e1f21444.css.map",
+    "main.170eda20.js.map": "/eight_ball/static/js/main.170eda20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1f21444.css",
+    "static/js/main.170eda20.js"
+  ]
+}
